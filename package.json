@@ -1,0 +1,32 @@
+{
+  "name": "praktika_uzhnu_4_kurs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RFalach/praktika_uzhnu_4_kurs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RFalach/praktika_uzhnu_4_kurs/issues"
+  },
+  "homepage": "https://github.com/RFalach/praktika_uzhnu_4_kurs#readme",
+  "dependencies": {
+    "@prisma/client": "^7.10.0",
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "pg": "^8.23.0",
+    "prisma": "^8.0.0-rc.15"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
